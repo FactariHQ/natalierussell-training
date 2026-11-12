@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://natalierussell.training/sitemap.xml
